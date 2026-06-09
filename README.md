@@ -57,6 +57,10 @@ The project consists of four tables:
 * Query optimization fundamentals
 * SQL analytical querying
 
+## Entity Relationship Diagram
+
+![ERD](erd%20diagram.png)
+
 ## Author
 
 Durgaprasad Jaiswal
